@@ -1,5 +1,5 @@
 # clean-web-search
-Python script that automates Google searches using Selenium with Tor routing IP's.
+Dependencies needed:
 
 ## download tor-browser
 ## download geckodriver
